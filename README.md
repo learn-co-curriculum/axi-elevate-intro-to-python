@@ -117,9 +117,9 @@ at our disposal thanks to working in the browser environment. We can:
 - Listen for events.
 - Debug our code in the browser's developer tools.
 
-But it also means working in a sandboxed environment. JavaScript's separation
-from our computers' innermost components means that it can't take full advantage
-of everything our computers are capable of, like accessing the file system, or
+But it also means working in a sandbox environment. JavaScript's separation from
+our computers' innermost components means that it can't take full advantage of
+everything our computers are capable of, like accessing the file system, or
 connecting directly to a database, or listening for HTTP requests.
 
 Python, on the other hand, **can't** run in the browser. Learning Python means
