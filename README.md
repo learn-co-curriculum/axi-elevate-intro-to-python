@@ -22,18 +22,6 @@ how to **debug code**; how to **search for help** when you're stuck; how to
 With those tools at your disposal, learning your second language (and your
 third, and fourth) will be easier than the first.
 
-To help you on this journey of your second language, Python, this curriculum will
-start by introducing new syntax and showing the similarities and differences
-between Python and JavaScript (they have more in common than you may think). Once
-you've learned the fundamentals, we'll explore what makes Python unique and start
-building new applications.
-
-As you're learning, it's ok (and completely normal) to make mistakes: every
-developer that switches between languages forgets syntax (is it `.toUpperCase()`
-or `.upper()`?) and needs to [look at the documentation][python docs upper]
-regularly. The most important things are to **write code** to develop your
-muscle memory, and trust that you'll get better with practice.
-
 ## What is Python and Where Did it Come From?
 
 Python is an interpreted, object-oriented programming language. Its high-level
@@ -103,11 +91,11 @@ other language (even JavaScript!)
 
 ## What Can Python Do?
 
-In the first two phases of the program, you used JavaScript primarily for one
-thing: to build **client-side** web applications that run in the browser. While
-it's true that you can use JavaScript to create other kinds of programs as well
-thanks to Node, we've stayed true to the original intent of the language by
-using it for frontend development.
+Throughout this course, you used JavaScript primarily for one thing: to build
+**client-side** web applications that run in the browser. While it's true that
+you can use JavaScript to create other kinds of programs as well thanks to
+Node, we've stayed true to the original intent of the language by using it for
+front end development.
 
 Building web applications in JavaScript means we have all kinds of great tools
 at our disposal thanks to working in the browser environment. We can:
@@ -140,14 +128,7 @@ applications, not just web applications:
 - Games.
 - Web scrapers.
 
-Since you'll be learning a new environment, it's important to familiarize
-yourself not only with Python's syntax, but also how to run and debug Python
-code. Make sure to code along with the lessons to come so that you can gain
-confidence in how to not only write code, but also to check what your code is
-doing and explore all the great features Python has to offer.
-
-Be sure to check out the resources below as well, and bookmark them for future
-reference!
+Be sure to check out the resources below to learn more about Python!
 
 ## Resources
 
